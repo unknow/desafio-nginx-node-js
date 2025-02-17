@@ -10,7 +10,7 @@ services:
     networks: 
       - app-network
     volumes:
-      - ./node/src:/usr/src/app/src
+      - ./node/src:/usr/app/src 
     tty: true
     ports: 
       - "3000:3000"
