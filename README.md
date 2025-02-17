@@ -26,5 +26,5 @@ Aguarde até a aplicação inicializar
 
 ### Para acessar a aplicação, digite o seguinte endereço no navegador:
 
-[http://localhost:8080/](http://localhost:8080/)
+[http://localhost:3000/](http://localhost:3000/)
 
