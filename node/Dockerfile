@@ -1,7 +1,7 @@
 FROM node:18
 
 # Diretório de trabalho
-WORKDIR /usr/src/app
+WORKDIR /usr/app
 
 RUN apt-get update && apt-get install -y wget
 
